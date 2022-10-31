@@ -7,8 +7,3 @@ Keras==2.3.1
 Werkzeug==1.0.0
 requests==2.27.1
 scikit-learn==0.24.2
-<<<<<<< HEAD
-
-# reqd files
-=======
->>>>>>> 1243ab21132aa9f88aeeb8c37ed02b06d68afd5b
